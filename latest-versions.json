@@ -9,20 +9,20 @@
                                   "tag_name":  "edge-beta-portable-x64_151.0.4129.35_1.18.0"
                               },
                      "dev":  {
-                                 "version":  "152.0.4148.0",
+                                 "version":  "152.0.4167.0",
                                  "name":  "Microsoft Edge Developer",
-                                 "published_at":  "2026-07-14T20:50:49Z",
-                                 "chromePlus":  "1.17.1",
-                                 "download_url":  "https://edge.bibica.net/edge-dev-portable-x64_152.0.4148.0_1.17.1/edge-dev-portable-x64_152.0.4148.0_1.17.1.zip",
-                                 "tag_name":  "edge-dev-portable-x64_152.0.4148.0_1.17.1"
+                                 "published_at":  "2026-07-21T21:55:47Z",
+                                 "chromePlus":  "1.18.0",
+                                 "download_url":  "https://edge.bibica.net/edge-dev-portable-x64_152.0.4167.0_1.18.0/edge-dev-portable-x64_152.0.4167.0_1.18.0.zip",
+                                 "tag_name":  "edge-dev-portable-x64_152.0.4167.0_1.18.0"
                              },
                      "canary":  {
-                                    "version":  "152.0.4168.0",
+                                    "version":  "152.0.4169.0",
                                     "name":  "Microsoft Edge Canary",
-                                    "published_at":  "2026-07-20T22:47:02Z",
+                                    "published_at":  "2026-07-21T14:56:54Z",
                                     "chromePlus":  "1.18.0",
-                                    "download_url":  "https://edge.bibica.net/edge-canary-portable-x64_152.0.4168.0_1.18.0/edge-canary-portable-x64_152.0.4168.0_1.18.0.zip",
-                                    "tag_name":  "edge-canary-portable-x64_152.0.4168.0_1.18.0"
+                                    "download_url":  "https://edge.bibica.net/edge-canary-portable-x64_152.0.4169.0_1.18.0/edge-canary-portable-x64_152.0.4169.0_1.18.0.zip",
+                                    "tag_name":  "edge-canary-portable-x64_152.0.4169.0_1.18.0"
                                 },
                      "stable":  {
                                     "version":  "150.0.4078.83",
@@ -33,5 +33,5 @@
                                     "tag_name":  "edge-stable-portable-x64_150.0.4078.83_1.18.0"
                                 }
                  },
-    "last_updated":  "2026-07-21T14:57:04Z"
+    "last_updated":  "2026-07-21T21:57:38Z"
 }
