@@ -8,6 +8,14 @@
                                   "download_url":  "https://edge.bibica.net/edge-beta-portable-x64_151.0.4129.35_1.18.0/edge-beta-portable-x64_151.0.4129.35_1.18.0.zip",
                                   "tag_name":  "edge-beta-portable-x64_151.0.4129.35_1.18.0"
                               },
+                     "stable":  {
+                                    "version":  "150.0.4078.96",
+                                    "name":  "Microsoft Edge Stable",
+                                    "published_at":  "2026-07-23T22:49:59Z",
+                                    "chromePlus":  "1.18.0",
+                                    "download_url":  "https://edge.bibica.net/edge-stable-portable-x64_150.0.4078.96_1.18.0/edge-stable-portable-x64_150.0.4078.96_1.18.0.zip",
+                                    "tag_name":  "edge-stable-portable-x64_150.0.4078.96_1.18.0"
+                                },
                      "dev":  {
                                  "version":  "152.0.4167.0",
                                  "name":  "Microsoft Edge Developer",
@@ -23,15 +31,7 @@
                                     "chromePlus":  "1.18.0",
                                     "download_url":  "https://edge.bibica.net/edge-canary-portable-x64_152.0.4173.0_1.18.0/edge-canary-portable-x64_152.0.4173.0_1.18.0.zip",
                                     "tag_name":  "edge-canary-portable-x64_152.0.4173.0_1.18.0"
-                                },
-                     "stable":  {
-                                    "version":  "150.0.4078.83",
-                                    "name":  "Microsoft Edge Stable",
-                                    "published_at":  "2026-07-17T20:52:45Z",
-                                    "chromePlus":  "1.18.0",
-                                    "download_url":  "https://edge.bibica.net/edge-stable-portable-x64_150.0.4078.83_1.18.0/edge-stable-portable-x64_150.0.4078.83_1.18.0.zip",
-                                    "tag_name":  "edge-stable-portable-x64_150.0.4078.83_1.18.0"
                                 }
                  },
-    "last_updated":  "2026-07-23T15:02:58Z"
+    "last_updated":  "2026-07-23T22:51:47Z"
 }
