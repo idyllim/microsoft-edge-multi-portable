@@ -9,12 +9,12 @@
                                   "tag_name":  "edge-beta-portable-x64_151.0.4129.35_1.18.0"
                               },
                      "stable":  {
-                                    "version":  "150.0.4078.96",
+                                    "version":  "150.0.4078.99",
                                     "name":  "Microsoft Edge Stable",
-                                    "published_at":  "2026-07-23T22:49:59Z",
-                                    "chromePlus":  "1.18.0",
-                                    "download_url":  "https://edge.bibica.net/edge-stable-portable-x64_150.0.4078.96_1.18.0/edge-stable-portable-x64_150.0.4078.96_1.18.0.zip",
-                                    "tag_name":  "edge-stable-portable-x64_150.0.4078.96_1.18.0"
+                                    "published_at":  "2026-07-24T21:56:25Z",
+                                    "chromePlus":  "1.18.1",
+                                    "download_url":  "https://edge.bibica.net/edge-stable-portable-x64_150.0.4078.99_1.18.1/edge-stable-portable-x64_150.0.4078.99_1.18.1.zip",
+                                    "tag_name":  "edge-stable-portable-x64_150.0.4078.99_1.18.1"
                                 },
                      "dev":  {
                                  "version":  "152.0.4167.0",
@@ -33,5 +33,5 @@
                                     "tag_name":  "edge-canary-portable-x64_152.0.4175.0_1.18.1"
                                 }
                  },
-    "last_updated":  "2026-07-24T21:56:32Z"
+    "last_updated":  "2026-07-24T22:54:22Z"
 }
