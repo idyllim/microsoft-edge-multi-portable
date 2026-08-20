@@ -8,6 +8,14 @@
                                   "download_url":  "https://edge.bibica.net/edge-beta-portable-x64_152.0.4191.35_1.18.2/edge-beta-portable-x64_152.0.4191.35_1.18.2.zip",
                                   "tag_name":  "edge-beta-portable-x64_152.0.4191.35_1.18.2"
                               },
+                     "stable":  {
+                                    "version":  "151.0.4129.101",
+                                    "name":  "Microsoft Edge Stable",
+                                    "published_at":  "2026-08-20T22:17:23Z",
+                                    "chromePlus":  "1.18.2",
+                                    "download_url":  "https://edge.bibica.net/edge-stable-portable-x64_151.0.4129.101_1.18.2/edge-stable-portable-x64_151.0.4129.101_1.18.2.zip",
+                                    "tag_name":  "edge-stable-portable-x64_151.0.4129.101_1.18.2"
+                                },
                      "dev":  {
                                  "version":  "153.0.4224.0",
                                  "name":  "Microsoft Edge Developer",
@@ -23,15 +31,7 @@
                                     "chromePlus":  "1.18.2",
                                     "download_url":  "https://edge.bibica.net/edge-canary-portable-x64_153.0.4230.0_1.18.2/edge-canary-portable-x64_153.0.4230.0_1.18.2.zip",
                                     "tag_name":  "edge-canary-portable-x64_153.0.4230.0_1.18.2"
-                                },
-                     "stable":  {
-                                    "version":  "151.0.4129.93",
-                                    "name":  "Microsoft Edge Stable",
-                                    "published_at":  "2026-08-17T22:16:44Z",
-                                    "chromePlus":  "1.18.2",
-                                    "download_url":  "https://edge.bibica.net/edge-stable-portable-x64_151.0.4129.93_1.18.2/edge-stable-portable-x64_151.0.4129.93_1.18.2.zip",
-                                    "tag_name":  "edge-stable-portable-x64_151.0.4129.93_1.18.2"
                                 }
                  },
-    "last_updated":  "2026-08-20T14:27:22Z"
+    "last_updated":  "2026-08-20T22:17:31Z"
 }
